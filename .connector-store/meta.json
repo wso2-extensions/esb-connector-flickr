@@ -4,7 +4,7 @@
     "category": "Social Media",
     "documentationUrl": "https://docs.wso2.org/display/CONNECTORS/Flickr+Connector",
     "description": "The Flickr connector allows you to connect to Flickr, almost certainly the best online photo management and sharing application in the world. The connector uses the Flickr REST API to connect to Flickr and work with Photos, People and more. ESB Templates and call mediator are used to send the requests to the Flickr REST endpoints. Underlying java classes help with the OAuth and signing process.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
